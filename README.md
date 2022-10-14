@@ -7,6 +7,9 @@
 
 - 📫 How to reach me **maximilianodamiancattaneo@gmail.com**
 
+- ⚡ Fun fact **I am interested in photography 📸 I currently practise CrossFit🏋️‍but 
+I love to eat pizza.🍕**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
