@@ -12,7 +12,7 @@ I love to eat pizza.🍕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/maximiliano-dami%c3%a1n-catt%c3%a1neo-595a69238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maximiliano-dami%c3%a1n-catt%c3%a1neo-595a69238/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/maximiliano-damián-cattáneo-595a69238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maximiliano-damián-cattáneo-595a69238/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
