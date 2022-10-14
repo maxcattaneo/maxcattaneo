@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **maximilianodamiancattaneo@gmail.com**
 
-- 📄 Know about my experiences [Recently finished a master in ux ui. Now I'm studying another in web development.]
+- 📄 Know about my experiences [Recently finished a master in ux ui desing. Now I'm studying another in web development.]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
